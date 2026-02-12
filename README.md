@@ -41,8 +41,8 @@ Bridging **AI theory and mineral system science** for sustainable resource devel
 
 ## 🌍 Current Roles
 
-- **Senior Research Scientist (Machine Learning & AI)** — Erity Pty Ltd., Perth, Australia (2026–Present)  
-- **Applied Machine Learning Researcher** — China National Geological & Mining Corporation, Saudi Arabia (2024–2026)  
+- **Senior AI-Research Scientist (Geoscience & Mining Applications)** — Erity Pty Ltd., Perth, Australia (2026–Present)  
+- **Applied Machine Learning Researcher (Geoscience & Mining Applications)** — China National Geological & Mining Corporation, Saudi Arabia (2024–Present)  
 
 ---
 
@@ -67,9 +67,9 @@ Bridging **AI theory and mineral system science** for sustainable resource devel
 
 ## 🏆 Selected Publications
 
-- **Big Data mining on Galena geochemistry using machine learning algorithms: Implications for Metallogenic Discrimination** — Mathematical Geosciences (Accepted)  
+- **Big Data mining on Galena geochemistry using machine learning algorithms: Implications for Metallogenic Discrimination** — Mathematical Geosciences 
 
-- **Artificial Intelligence-Driven Metallogenic Typing of Pyrite from Global Ore Systems** — Journal of Geochemical Exploration (Accepted)  
+- **Artificial Intelligence-Driven Metallogenic Typing of Pyrite from Global Ore Systems** — Journal of Geochemical Exploration  
 
 - **Machine Learning-Driven Classification of Pb–Zn Ore Deposits Using Pyrite Trace Elements and Isotopic Signatures: A Case Study of the Gunga Deposit** — Journal of Geochemical Exploration  
 
@@ -78,24 +78,15 @@ Bridging **AI theory and mineral system science** for sustainable resource devel
 ## 🛠 Technical Stack
 
 ### Machine Learning
-Random Forest | XGBoost | CNN | SVM | MLP | Gradient Boosting  
+Random Forest | XGBoost | CNN | SVM | MLP | Gradient Boost
 
 ### Robust & Interpretable AI
 Cross-Validation | Leave-One-Group-Out | SHAP | t-SNE | UMAP  
-Class Imbalance Handling | Out-of-Distribution Testing  
+Class Imbalance Handling | SMOTE | RUC  
 
 ### Scientific Data Systems
 Geochemical Big Data | LA-ICP-MS | Isotope Geochemistry  
 GIS | Remote Sensing | ETL | ISO/OGC Data Modeling  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dr-Amar&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Amar&layout=compact&hide_border=true" />
-</p>
 
 ---
 
