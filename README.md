@@ -77,9 +77,16 @@ Bridging **AI theory and mineral system science** for sustainable resource devel
 
 ## 🛠 Technical Stack
 
-**ML / AI:** PyTorch | TensorFlow | scikit-learn | SQL  
-**Robustness & Interpretability:** SHAP | Feature Attribution | OOD Evaluation  
-**Data Science:** Large-scale analysis | Benchmarking | Visualization  
+### Machine Learning
+Random Forest | XGBoost | CNN | SVM | MLP | Gradient Boosting  
+
+### Robust & Interpretable AI
+Cross-Validation | Leave-One-Group-Out | SHAP | t-SNE | UMAP  
+Class Imbalance Handling | Out-of-Distribution Testing  
+
+### Scientific Data Systems
+Geochemical Big Data | LA-ICP-MS | Isotope Geochemistry  
+GIS | Remote Sensing | ETL | ISO/OGC Data Modeling  
 
 ---
 
@@ -94,6 +101,6 @@ Bridging **AI theory and mineral system science** for sustainable resource devel
 
 ## 🔬 AIMEX Lab
 
-AIMEX Lab develops interpretable, robust AI systems for mineral exploration and scientific geoscience, integrating advanced ML methodologies with real-world Earth-system datasets.
+AI × Critical Minerals × Interpretable Science × Robust Machine Learning  
 
-AI × Critical Minerals × Interpretable Science × Robust ML
+Building next-generation scientific AI systems for sustainable exploration.
