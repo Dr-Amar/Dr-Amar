@@ -22,6 +22,11 @@
 </p>
 
 ---
+---
+
+## 👤 About Me
+
+Dr. Muhammad Amar Gul is a Research Scientist specializing in AI4Science and scientific machine learning, with a strong foundation in geochemistry and mineral systems. His work focuses on developing robust, uncertainty-aware, and interpretable machine learning methodologies for limited, imbalanced, and heterogeneous scientific datasets. With more than 10 years of experience spanning industry and research environments in Saudi Arabia, Australia, and China, he integrates deep learning, ensemble models, and explainable AI techniques to advance mineral exploration, metallogenic discrimination, and large-scale geospatial data analysis. As Founder and Director of AIMEX Lab (Artificial Intelligence for Mineral Exploration Laboratory), he bridges advanced AI methodologies with real-world Earth-system challenges, contributing to sustainable critical-mineral development and next-generation scientific discovery.
 
 ## 🧠 Research Identity
 
