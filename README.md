@@ -29,18 +29,20 @@ I pursue methodology-driven machine learning for scientific discovery (AI4Scienc
 
 **Core Interests**
 
-- Probabilistic & uncertainty-aware ML  
-- Robust generalization & out-of-distribution learning  
-- Interpretable ML (XAI / SHAP)  
-- Data-efficient learning under scarcity & imbalance  
-- Representation learning for heterogeneous scientific data  
+- Robust Generalization under data scarcity  
+- Imbalanced & heterogeneous dataset learning  
+- Interpretable AI (SHAP, feature attribution)  
+- Out-of-distribution validation  
+- AI for Critical Mineral Systems  
+
+Bridging **AI theory and mineral system science** for sustainable resource development. 
 
 ---
 
 ## 🌍 Current Roles
 
 - **Senior Research Scientist (Machine Learning & AI)** — Erity Pty Ltd., Perth, Australia (2026–Present)  
-- **Applied Machine Learning Researcher** — China National Geological & Mining Corporation, Jeddah, Saudi Arabia (2024–2026)  
+- **Applied Machine Learning Researcher** — China National Geological & Mining Corporation, Saudi Arabia (2024–2026)  
 
 ---
 
@@ -92,6 +94,6 @@ I pursue methodology-driven machine learning for scientific discovery (AI4Scienc
 
 ## 🔬 AIMEX Lab
 
-AIMEX Lab develops interpretable and robust AI systems for mineral exploration and scientific geoscience, bridging advanced ML methodology with real-world Earth system datasets.
+AIMEX Lab develops interpretable, robust AI systems for mineral exploration and scientific geoscience, integrating advanced ML methodologies with real-world Earth-system datasets.
 
 AI × Critical Minerals × Interpretable Science × Robust ML
