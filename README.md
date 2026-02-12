@@ -2,107 +2,97 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dr.%20Muhammad%20Amar%20Gul&fontSize=35&fontColor=ffffff" />
 </p>
 
-<h2 align="center">AI Scientist | Critical Minerals | Scientific Machine Learning</h2>
+<h2 align="center">Research Scientist | AI4Science | Scientific Machine Learning</h2>
 
 <p align="center">
-  Founder & Director — AIMEX Lab <br>
+  Founder & Director — <b>AIMEX Lab</b><br>
   Artificial Intelligence for Mineral Exploration Laboratory
+</p>
+
+<p align="center">
+  <a href="https://dr-amar.github.io/">
+    <img src="https://img.shields.io/badge/Website-dr--amar.github.io-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=EDfhb1gAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-EDfhb1gAAAAJ-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dr-amar.github.io/">
+    <img src="https://img.shields.io/badge/AIMEX%20Lab-Official%20Site-000000?style=for-the-badge&logo=atom&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🧠 Research Identity
 
-I develop **methodology-driven, interpretable, and uncertainty-aware machine learning systems** for scientific and geospatial data.
+I pursue **methodology-driven machine learning for scientific discovery (AI4Science)**, focusing on
+**probabilistic, uncertainty-aware, interpretable, and robust ML** for **limited, imbalanced, and heterogeneous datasets**. :contentReference[oaicite:1]{index=1}
 
-My work focuses on:
-
-- Robust Generalization under data scarcity  
-- Imbalanced & heterogeneous dataset learning  
-- Interpretable AI (SHAP, feature attribution)  
-- Out-of-distribution validation  
-- AI for Critical Mineral Systems  
-
-Bridging **AI theory and mineral system science** for sustainable resource development.
+Core interests:
+- Probabilistic & uncertainty-aware ML  
+- Robust generalization & out-of-distribution (OOD) learning  
+- Interpretable ML (XAI/SHAP)  
+- Data-efficient learning under scarcity/imbalance  
+- Representation learning for heterogeneous scientific data :contentReference[oaicite:2]{index=2}
 
 ---
 
 ## 🌍 Current Roles
 
-- Project Geologist (AI & ML) — China National Geological & Mining Corporation, Saudi Arabia  
-- Contributor to Saudi Vision 2030 — National Geological Database (NGD)  
-- AI-driven mineral potential modeling across 600,000 km² Arabian Shield  
+- **Senior Research Scientist (Machine Learning & AI)** — Erity Pty Ltd., Perth, Australia (2026–Present) :contentReference[oaicite:3]{index=3}  
+- **Applied Machine Learning Researcher** — China National Geological & Mining Corporation, Jeddah, Saudi Arabia (2024–2026) :contentReference[oaicite:4]{index=4}  
 
 ---
 
-## 🚀 Featured Research Projects
+## 🚀 Methodological Research Projects
 
-🔹 Deep Learning for Pyrite Tectonic Classification  
-🔹 Big Data Mining on Galena (Metallogenic Discrimination)  
-🔹 AI-driven Pb–Zn Deposit Classification  
-🔹 Uncertainty-aware ML under Class Imbalance  
-🔹 National-scale Mineral Prospectivity Mapping  
+### Robust & Interpretable ML under Data Scarcity and Distribution Shift
+- Built CNN, Random Forest, SVM, Gradient Boosting, XGBoost, and MLP pipelines for multi-class classification  
+- Studied effects of imbalance on uncertainty, stability, and generalization  
+- Used SHAP for diagnostics and feature reliance analysis :contentReference[oaicite:5]{index=5}
+
+### Large-Scale Generalization Analysis in Scientific ML
+- Curated 5,000+ samples from 100+ independent sources  
+- Evaluated out-of-distribution performance across distinct data-generating processes  
+- Demonstrated strong generalization with AUC > 0.99 across independent test sets :contentReference[oaicite:6]{index=6}
+
+### Uncertainty-Aware ML & Reproducible Research Tools
+- Tested model behavior under noise, sparsity, and missingness  
+- Integrated uncertainty-aware evaluation into ML workflows  
+- Built interactive tools (Python + Gradio) for reproducibility and analysis :contentReference[oaicite:7]{index=7}
 
 ---
 
 ## 🏆 Selected Publications
 
-- **Mathematical Geosciences (Accepted)**  
-  Big Data Mining on Galena Geochemistry using Machine Learning  
-
-- **Journal of Geochemical Exploration (Accepted)**  
-  AI-Driven Metallogenic Typing of Pyrite  
-
-- **Journal of Geochemical Exploration (2025)**  
-  ML-Driven Classification of Pb–Zn Deposits  
-
-- **Gondwana Research (Under Review)**  
-  Interpretable SHAP-based Tectonic Classification  
+- **Big Data mining on Galena geochemistry using machine learning algorithms: Implications for Metallogenic Discrimination** — *Mathematical Geosciences* (Accepted) :contentReference[oaicite:8]{index=8}  
+- **Artificial Intelligence-Driven Metallogenic Typing of Pyrite from Global Ore Systems** — *Journal of Geochemical Exploration* (Accepted) :contentReference[oaicite:9]{index=9}  
+- **Machine Learning-Driven Classification of Pb–Zn Ore Deposits Using Pyrite Trace Elements and Isotopic Signatures: A Case Study of the Gunga Deposit** — *Journal of Geochemical Exploration* :contentReference[oaicite:10]{index=10}  
 
 ---
 
 ## 🛠 Technical Stack
 
-### Machine Learning
-Random Forest | XGBoost | CNN | SVM | MLP | Gradient Boosting  
-
-### Robust & Interpretable AI
-Cross-Validation | Leave-One-Group-Out | SHAP | t-SNE | UMAP  
-Class Imbalance Handling | Out-of-Distribution Testing  
-
-### Scientific Data Systems
-Geochemical Big Data | LA-ICP-MS | Isotope Geochemistry  
-GIS | Remote Sensing | ETL | ISO/OGC Data Modeling  
+**ML / AI:** PyTorch | TensorFlow | scikit-learn | SQL :contentReference[oaicite:11]{index=11}  
+**Robustness & Interpretability:** SHAP | Feature attribution | OOD evaluation :contentReference[oaicite:12]{index=12}  
+**Data Science:** large-scale analysis | benchmarking | visualization :contentReference[oaicite:13]{index=13}  
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dr-Amar&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dr-Amar&show_icons=true&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Amar&layout=compact&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://dr-amar.github.io">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <a href="https://scholar.google.com/">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
 ## 🔬 AIMEX Lab
 
-AI × Critical Minerals × Interpretable Science × Robust Machine Learning  
+**AIMEX Lab** develops interpretable and robust AI systems for **mineral exploration and scientific geoscience**, bridging AI methodology with real-world Earth datasets.
 
-Building next-generation scientific AI systems for sustainable exploration.
+AI × Critical Minerals × Interpretable Science × Robust ML
