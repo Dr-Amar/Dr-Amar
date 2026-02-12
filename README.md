@@ -46,6 +46,14 @@ Bridging **AI theory and mineral system science** for sustainable resource devel
 
 ---
 
+## 📌 Research Highlights
+
+- **Robust multi-class learning** under severe class imbalance and distribution shift  
+- **Large-scale generalization** across 5,000+ samples from 100+ independent sources  
+- **Interpretable scientific ML** with SHAP-based diagnostics and stability analysis  
+- **Reproducible research tooling** using Python + interactive apps for benchmarking and deployment readiness  
+
+---
 ## 🚀 Methodological Research Projects
 
 ### Robust & Interpretable ML under Data Scarcity and Distribution Shift
@@ -92,6 +100,6 @@ GIS | Remote Sensing | ETL | ISO/OGC Data Modeling
 
 ## 🔬 AIMEX Lab
 
-AI × Critical Minerals × Interpretable Science × Robust Machine Learning  
+AIMEX Lab develops interpretable and robust AI systems for mineral exploration and scientific geoscience, bridging advanced ML methodology with real-world Earth system datasets.
 
-Building next-generation scientific AI systems for sustainable exploration.
+**AI × Critical Minerals × Interpretable Science × Robust ML**
