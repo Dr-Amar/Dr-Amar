@@ -24,8 +24,11 @@
 ---
 
 ## 👤 About Me
+Dr. Muhammad Amar Gul is a Research Scientist working at the interface of AI4Science and Earth-system processes, with a specialization in scientific machine learning for mineral systems. His research focuses on developing interpretable, uncertainty-aware, and data-efficient machine learning methodologies tailored for limited, imbalanced, and heterogeneous geoscientific datasets.
 
-Dr. Muhammad Amar Gul is a Research Scientist specializing in AI4Science and scientific machine learning, with a strong foundation in geochemistry and mineral systems. His work focuses on developing robust, uncertainty-aware, and interpretable machine learning methodologies for limited, imbalanced, and heterogeneous scientific datasets. With more than 10 years of experience spanning industry and research environments in Saudi Arabia, Australia, and China, he integrates deep learning, ensemble models, and explainable AI techniques to advance mineral exploration, metallogenic discrimination, and large-scale geospatial data analysis. As Founder and Director of AIMEX Lab (Artificial Intelligence for Mineral Exploration Laboratory), he bridges advanced AI methodologies with real-world Earth-system challenges, contributing to sustainable critical-mineral development and next-generation scientific discovery.
+With more than a decade of experience spanning academia and industry across Saudi Arabia, Australia, and China, he integrates ensemble learning, deep neural networks, explainable AI (SHAP, attribution analysis), and probabilistic modeling to advance metallogenic discrimination, tectonic-environment prediction, and large-scale geochemical data mining.
+
+As Founder and Director of AIMEX Lab (Artificial Intelligence for Mineral Exploration Laboratory), he leads the development of robust AI frameworks that bridge advanced computational methodologies with real-world mineral exploration challenges, contributing to sustainable critical-mineral resource development and next-generation AI-driven discovery.
 
 
 ## 🧠 Research Identity
