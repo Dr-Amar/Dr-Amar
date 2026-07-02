@@ -1,11 +1,11 @@
-﻿<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dr.%20Muhammad%20Amar%20Gul&fontSize=35&fontColor=ffffff" />
 </p>
 
 <h2 align="center">Research Scientist | AI4Science | Scientific Machine Learning</h2>
 
 <p align="center">
-  Founder & Director â€” AIMEX Lab <br>
+  Founder & Director  -  AIMEX Lab <br>
   Artificial Intelligence for Mineral Exploration Laboratory
 </p>
 
@@ -23,7 +23,7 @@
 
 ---
 
-## ðŸ‘¤ About Me
+##  About Me
 Dr. Muhammad Amar Gul is a Research Scientist working at the interface of AI4Science and Earth-system processes, with a specialization in scientific machine learning for mineral systems. His research focuses on developing interpretable, uncertainty-aware, and data-efficient machine learning methodologies tailored for limited, imbalanced, and heterogeneous geoscientific datasets.
 
 With more than a decade of experience spanning academia and industry across Saudi Arabia, Australia, and China, he integrates ensemble learning, deep neural networks, explainable AI (SHAP, attribution analysis), and probabilistic modeling to advance metallogenic discrimination, tectonic-environment prediction, and large-scale geochemical data mining.
@@ -31,7 +31,7 @@ With more than a decade of experience spanning academia and industry across Saud
 As Founder and Director of AIMEX Lab (Artificial Intelligence for Mineral Exploration Laboratory), he leads the development of robust AI frameworks that bridge advanced computational methodologies with real-world mineral exploration challenges, contributing to sustainable critical-mineral resource development and next-generation AI-driven discovery.
 
 
-## ðŸ§  Research Identity
+##  Research Identity
 
 I pursue methodology-driven machine learning for scientific discovery (AI4Science), focusing on probabilistic, uncertainty-aware, interpretable, and robust ML for limited, imbalanced, and heterogeneous datasets.
 
@@ -47,14 +47,14 @@ Bridging **AI theory and mineral system science** for sustainable resource devel
 
 ---
 
-## ðŸŒ Current Roles
+## Current Roles
 
-- **Senior AI-Research Scientist (Geoscience & Mining Applications)** â€” Erity Pty Ltd., Perth, Australia (2026â€“Present)  
-- **Applied Machine Learning Researcher (Geoscience & Mining Applications)** â€” China National Geological & Mining Corporation, Saudi Arabia (2024â€“Present)  
+- **Senior AI-Research Scientist (Geoscience & Mining Applications)**  -  Erity Pty Ltd., Perth, Australia (2026 - Present)  
+- **Applied Machine Learning Researcher (Geoscience & Mining Applications)**  -  China National Geological & Mining Corporation, Saudi Arabia (2024 - Present)  
 
 ---
 
-## ðŸ“Œ Research Highlights
+## Research Highlights
 
 - **Robust multi-class learning** under severe class imbalance and distribution shift  
 - **Large-scale generalization** across 5,000+ samples from 100+ independent sources  
@@ -62,7 +62,7 @@ Bridging **AI theory and mineral system science** for sustainable resource devel
 - **Reproducible research tooling** using Python + interactive apps for benchmarking and deployment readiness  
 
 ---
-## ðŸš€ Methodological Research Projects
+## Methodological Research Projects
 
 ### Robust & Interpretable ML under Data Scarcity and Distribution Shift
 - Built CNN, Random Forest, SVM, Gradient Boosting, XGBoost, and MLP pipelines for multi-class classification  
@@ -81,17 +81,17 @@ Bridging **AI theory and mineral system science** for sustainable resource devel
 
 ---
 
-## ðŸ† Selected Publications
+##  Selected Publications
 
-- **Big Data mining on Galena geochemistry using machine learning algorithms: Implications for Metallogenic Discrimination** â€” Mathematical Geosciences 
+- **Big Data mining on Galena geochemistry using machine learning algorithms: Implications for Metallogenic Discrimination**  -  Mathematical Geosciences 
 
-- **Artificial Intelligence-Driven Metallogenic Typing of Pyrite from Global Ore Systems** â€” Journal of Geochemical Exploration  
+- **Artificial Intelligence-Driven Metallogenic Typing of Pyrite from Global Ore Systems**  -  Journal of Geochemical Exploration  
 
-- **Machine Learning-Driven Classification of Pbâ€“Zn Ore Deposits Using Pyrite Trace Elements and Isotopic Signatures: A Case Study of the Gunga Deposit** â€” Journal of Geochemical Exploration  
+- **Machine Learning-Driven Classification of Pb - Zn Ore Deposits Using Pyrite Trace Elements and Isotopic Signatures: A Case Study of the Gunga Deposit**  -  Journal of Geochemical Exploration  
 
 ---
 
-## ðŸ›  Technical Stack
+##  Technical Stack
 
 ### Machine Learning
 Random Forest | XGBoost | CNN | SVM | MLP | Gradient Boost
@@ -106,11 +106,11 @@ GIS | Remote Sensing | ETL | ISO/OGC Data Modeling
 
 ---
 
-## ðŸ”¬ AIMEX Lab
+##  AIMEX Lab
 
 AIMEX Lab develops interpretable and robust AI systems for mineral exploration and scientific geoscience, bridging advanced ML methodology with real-world Earth system datasets.
 
-**AI Ã— Critical Minerals Ã— Interpretable Science Ã— Robust ML**
+**AI x Critical Minerals x Interpretable Science x Robust ML**
 
 <!-- PYRITE_AI_REPO_START -->
 
